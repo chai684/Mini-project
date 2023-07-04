@@ -1,2 +1,2 @@
 # Mini-project
-# Nothing to see right now
+# Nothing to see here
